@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ThayyRamos_
-- 👀 I’m interested in Css, Html, JavaScript...
-- 🌱 I’m currently learning Css, Html, JavaScript ...
-- 📫 How to reach me by email thayramos2001@gmail.com or cell phone (47) 99146-9327
+- 👀 I’m interested in Css, Html, JavaScript e correndo aprender SQL e um pouco de banco de dados...
+- 🌱 
+- 📫 How to reach me by email thaynararamos_pessoal@hotmail.com or cell phone (47) 99146-9327
 
 
 <!---
